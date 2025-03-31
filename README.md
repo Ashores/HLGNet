@@ -13,7 +13,7 @@ Official implementation of **HLGNet**. Code will be released after publication!
 ### Instance Segmentation Performance on Low-Light Datasets
 | Method         | AP_seg↑ | AP_50↑ | AP_75↑ | AP_box↑ | AP_50↑ | AP_75↑ | AP_seg↑ | AP_50↑ | AP_75↑ | AP_box↑ | AP_50↑ | AP_75↑ |
 |----------------|---------|--------|--------|---------|--------|--------|---------|--------|--------|---------|--------|--------|
-| **Belt Dataset (4,291 images)**   |         |        |        |         |        |        | **Lis Dataset (2,230 images)** |        |        |         |        |        |
+| **Belt Dataset (4,291 images)**   | **Lis Dataset (2,230 images)**  |
 | Mask RCNN      | 72.9    | 82.5   | 73.0   | 78.3    | 88.8   | 80.0   | 34.2    | 55.6   | 34.7   | 41.3    | 63.9   | 44.6   |
 | Cascade RCNN   | 73.6    | 84.4   | 73.5   | 80.0    | 90.7   | 80.3   | 34.5    | 56.2   | 35.4   | 42.5    | 66.2   | 46.1   |
 | DENet          | 79.0    | 89.2   | 78.8   | 84.1    | *95.8* | 85.2   | 38.6    | 61.7   | 39.8   | 46.4    | 70.1   | 51.0   |

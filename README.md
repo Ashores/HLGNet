@@ -2,8 +2,8 @@
 
 **High-Light Guided Network for Low-Light Instance Segmentation with Spatial-Frequency Domain Enhancement**
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/XXXX.XXXX) <!-- Update with your paper link -->
-![Framework](https://via.placeholder.com/800x200.png?text=HLGNet+Framework) <!-- Add framework image -->
+<!-- Update with your paper link -->
+ <!-- Add framework image -->
 
 Official implementation of **HLGNet**. Code will be released after publication!
 
